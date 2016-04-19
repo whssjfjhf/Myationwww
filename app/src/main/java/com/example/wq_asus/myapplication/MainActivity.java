@@ -18,7 +18,7 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        // THIS A Brash1
+        // THIS A Brash1  ggg
 
         setContentView(R.layout.activity_main);
         if (savedInstanceState == null) {
